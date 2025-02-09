@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zepp-Denier/static/css/main.02b7a19e.css",
+    "main.js": "/Zepp-Denier/static/js/main.07e4fd0d.js",
+    "static/js/453.15dee038.chunk.js": "/Zepp-Denier/static/js/453.15dee038.chunk.js",
+    "index.html": "/Zepp-Denier/index.html",
+    "main.02b7a19e.css.map": "/Zepp-Denier/static/css/main.02b7a19e.css.map",
+    "main.07e4fd0d.js.map": "/Zepp-Denier/static/js/main.07e4fd0d.js.map",
+    "453.15dee038.chunk.js.map": "/Zepp-Denier/static/js/453.15dee038.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02b7a19e.css",
+    "static/js/main.07e4fd0d.js"
+  ]
+}
